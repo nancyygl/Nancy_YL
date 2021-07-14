@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Nancy__, a seasoned system analyst with ~10 years of progressive experience in system development. I am involved in software development, design & analysis in banking and finance industry to build computerised banking solutions.
 
 
 <!-- Add link to the sections -->
@@ -30,7 +30,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### RISE 
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
